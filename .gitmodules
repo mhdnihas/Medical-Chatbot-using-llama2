@@ -1,0 +1,3 @@
+[submodule "Medical-Chatbot-using-llama2"]
+	path = Medical-Chatbot-using-llama2
+	url = https://github.com/mhdnihas/Medical-Chatbot-using-llama2.git
